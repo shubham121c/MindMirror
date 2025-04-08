@@ -1,0 +1,9 @@
+streamlit
+textblob
+pandas
+matplotlib
+plotly
+python-dotenv
+reportlab
+nltk
+db-sqlite
